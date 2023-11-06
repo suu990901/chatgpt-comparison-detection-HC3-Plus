@@ -3,7 +3,7 @@ In order to fill the gap of HC3 under semanticinvariant tasks, we extend HC3 and
 
 
 ## Dataset
-To build the HC3 semantic-invariance Datset, We first select several widely used high-quality corpora that were annotated by humans, encompassing translation, summarization, and paraphrasing tasks. The main datasets included are: [CNN/DailyMail](https://doi.org/10.18653/v1/P17-1099), [Xsum](https://aclanthology.org/D18-1206/), [LCSTS](https://aclanthology.org/D15-1229/), [news2016](https://doi.org/10.18653/v1/2020.coling-main.419), [WMT](https://machinetranslate.org/wmt), [HC3 Question Paraphrase](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection/tree/main). Then, we merge the HC3 dataset to create the complete HC3 Plus dataset. The merged data is located in the data directory.
+To build the HC3 semantic-invariance Datset, We first select several widely used high-quality corpora that were annotated by humans, encompassing translation, summarization, and paraphrasing tasks. The main datasets included are: [CNN/DailyMail](https://doi.org/10.18653/v1/P17-1099), [Xsum](https://aclanthology.org/D18-1206/), [LCSTS](https://aclanthology.org/D15-1229/), [news2016](https://doi.org/10.18653/v1/2020.coling-main.419), [WMT](https://machinetranslate.org/wmt), [HC3 Question Paraphrase](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection/tree/main). Then, we merge the HC3 dataset to create the complete HC3 Plus dataset. The merged data is located in the [data directory](https://github.com/suu990901/chatgpt-comparison-detection-HC3-Plus/tree/main/data).
 
 ```
 data/
