@@ -28,7 +28,7 @@ For the English detector, we use the following command for training:
 bash train_english_roberta.sh # Train the Roberta model.
 bash train_english_s2s.sh # Train the Tk-instruct.
 ```
-### Chines
+### Chinese
 For the Chinese detector, we use the following command for training:
 ```
 bash train_chinese_roberta.sh # Train the Roberta model.
